@@ -1,4 +1,4 @@
-# HII - BDS REPORT DOC
+# BDS REPORT DOC
 Bei Problemen bitte Konni schreiben :)  
 Wenn ihr größere Sachen bearbeiten wollt, müsst ihr euch leider einen Github account machen.
 Wenn ihr nur kleinere Sachen verändern wollt könnt ihr auch einfach jemandem schreiben, der an dem Bericht mitgearbeitet hat.
@@ -6,6 +6,8 @@ Wenn euch größere Sachen auffallen aber ihr nicht die Kappas/ Bock hat das zu 
 Wenn ihr checken wollt ob jemand schon etwas bearbeitet hat, aber Konni das noch nicht auf die Website getahen hat, könnt ihr oben auf "PULL REQUESTS" gehen.  
 -> Da stehen dann die einzelnen Veränderungen  
 -> Wenn ihr bei einer Veränderung kommentieren wollt könnt ihr das da machen (nur mit github account)   
+
+Wenn ihr euch mit CSS/ HTML auskennt könnt ihr obv. gerne mithelfen an dem Styling  
 
 Soonish sollte die website live sein unter bdsreporthhu.org.
 Da sollte dann auch regelmäßig der aktuelle Stand von hier automatisch geupdated werden.
