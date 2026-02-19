@@ -10,7 +10,10 @@ Wenn ihr checken wollt ob jemand schon etwas bearbeitet hat, aber Konni das noch
 Wenn ihr euch mit CSS/ HTML auskennt könnt ihr obv. gerne mithelfen an dem Styling  
 
 Soonish sollte die website live sein unter bdsreporthhu.org.
-Da sollte dann auch regelmäßig der aktuelle Stand von hier automatisch geupdated werden.
+Da sollte dann auch regelmäßig der aktuelle Stand von hier automatisch geupdated werden.  
+
+Wenn ihr was bearbeiten wäre es besser, wenn ihr verschiedene Veärnderungen als verschiedene pull requests macht.  
+-> Dann können anderen auf jeder Veränderung einzeln reagieren 
 
 ## Runterladen & Öffnen
 1) Auf den grünen Button CODE  
