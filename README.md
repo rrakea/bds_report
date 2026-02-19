@@ -28,6 +28,6 @@ Da sollte dann auch regelmäßig der aktuelle Stand von hier automatisch geupdat
 -> Ihr könnt noch eine Begründung schreiben, wenn ihr denkt das es nicht selbsterklärend ist  
 
 ## TODO
-- [] Footnotes an das Ende sammeln ( mit richtigen Indexen)
-- [] Inhaltsverzeichnis
-- [] Appendix von FU Berlin Report klauen
+- [ ] Footnotes an das Ende sammeln ( mit richtigen Indexen)
+- [ ] Inhaltsverzeichnis
+- [ ] Appendix von FU Berlin Report klauen
