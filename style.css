@@ -14,3 +14,10 @@ h5,
 h6 {
     text-align: center;
 }
+
+table, th, td {
+    border: 1px solid;
+    border-color: white;
+    border-collapse: collapse;
+    text-align: left;
+}
