@@ -1,6 +1,6 @@
 body {
-    background-color: black;
-    color: white;
+    background-color: #1e1e2e;
+    color: #cdd6f4;
     max-width: 900px;
     margin: 0 auto;
     text-align: justify;
@@ -16,9 +16,24 @@ h6 {
     text-align: center;
 }
 
-table, th, td {
+table,
+th,
+td {
     border: 1px solid;
-    border-color: white;
+    border-color: #cdd6f4;
     border-collapse: collapse;
     text-align: left;
+}
+
+a {
+    color: #74c7ec
+}
+
+a:visited {
+    color: #74c7ec
+}
+
+#footnotes {
+    font-size: 16px;
+    color: #6c7086
 }
